@@ -1,2 +1,4 @@
-vvvv-package-template
+vvvv-package-<NAME>
 =====================
+
+
