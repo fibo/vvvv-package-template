@@ -1,4 +1,3 @@
-vvvv-package-<NAME>
-=====================
-
+vvvv-package-CALLMENAME
+=======================
 
