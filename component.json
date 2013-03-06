@@ -1,0 +1,7 @@
+{
+  "name": "<NAME>",
+  "version": "1.0.0",
+  "ignore": [
+    ".gitignore"
+  ]
+}
